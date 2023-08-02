@@ -15,7 +15,7 @@ public class AzureApplication {
 
 	@RequestMapping("/")
 	String sayHello() {
-		return "Azure Dojo Finished";
+		return "Azure Dojo Finished!";
 	}
 
 }
